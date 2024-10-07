@@ -16,5 +16,5 @@ ETL Data Pipeline using Azure Cloud Services
 - Outcome: Efficiently processed large datasets with streamlined data transformation, enabling real-time insights and decision-making through dynamic dashboards.
 
 - Project Architecture
-  
-![Tokyo_Olympic_Project_Architecture](https://github.com/user-attachments/assets/afeff661-4ee2-4fa7-b9f1-1847fe065d0f)
+- 
+![Tokyo_Olympic_Project_Architecture](https://github.com/user-attachments/assets/9234957f-b1b2-4051-95f6-46ac623de7b7)
